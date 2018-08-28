@@ -1,0 +1,11 @@
+C:\Users\Bryan\Documents\GitHub\csharp-class\module1\Module01GettingStarted\Module01GettingStarted\bin\Debug\netcoreapp2.1\Module01GettingStarted.deps.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module1\Module01GettingStarted\Module01GettingStarted\bin\Debug\netcoreapp2.1\Module01GettingStarted.runtimeconfig.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module1\Module01GettingStarted\Module01GettingStarted\bin\Debug\netcoreapp2.1\Module01GettingStarted.runtimeconfig.dev.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module1\Module01GettingStarted\Module01GettingStarted\bin\Debug\netcoreapp2.1\Module01GettingStarted.dll
+C:\Users\Bryan\Documents\GitHub\csharp-class\module1\Module01GettingStarted\Module01GettingStarted\bin\Debug\netcoreapp2.1\Module01GettingStarted.pdb
+C:\Users\Bryan\Documents\GitHub\csharp-class\module1\Module01GettingStarted\Module01GettingStarted\obj\Debug\netcoreapp2.1\Module01GettingStarted.csprojAssemblyReference.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module1\Module01GettingStarted\Module01GettingStarted\obj\Debug\netcoreapp2.1\Module01GettingStarted.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module1\Module01GettingStarted\Module01GettingStarted\obj\Debug\netcoreapp2.1\Module01GettingStarted.AssemblyInfoInputs.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module1\Module01GettingStarted\Module01GettingStarted\obj\Debug\netcoreapp2.1\Module01GettingStarted.AssemblyInfo.cs
+C:\Users\Bryan\Documents\GitHub\csharp-class\module1\Module01GettingStarted\Module01GettingStarted\obj\Debug\netcoreapp2.1\Module01GettingStarted.dll
+C:\Users\Bryan\Documents\GitHub\csharp-class\module1\Module01GettingStarted\Module01GettingStarted\obj\Debug\netcoreapp2.1\Module01GettingStarted.pdb

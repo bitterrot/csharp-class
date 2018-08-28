@@ -1,0 +1,7 @@
+Clone - To create a copy of a repository
+Commit - To add a change from a clone to a repository 
+Fetch - Pulls changes to a repository but dosen't force a merge
+Pull - To update a clone with changes submitted to a repository
+Push - To push changes made to your copy of the repository to the source
+Repository - The location of the set of files that maintains all the commits
+Visual Studio TFS - Team Foundation Server provides a set of tools that integrates with hopefully the IDE you are most familiar with
