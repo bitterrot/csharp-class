@@ -1,0 +1,11 @@
+C:\Users\Bryan\Documents\GitHub\csharp-class\module2\CarRental\CarRental\bin\Debug\netcoreapp2.1\CarRental.deps.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module2\CarRental\CarRental\bin\Debug\netcoreapp2.1\CarRental.runtimeconfig.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module2\CarRental\CarRental\bin\Debug\netcoreapp2.1\CarRental.runtimeconfig.dev.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module2\CarRental\CarRental\bin\Debug\netcoreapp2.1\CarRental.dll
+C:\Users\Bryan\Documents\GitHub\csharp-class\module2\CarRental\CarRental\bin\Debug\netcoreapp2.1\CarRental.pdb
+C:\Users\Bryan\Documents\GitHub\csharp-class\module2\CarRental\CarRental\obj\Debug\netcoreapp2.1\CarRental.csprojAssemblyReference.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module2\CarRental\CarRental\obj\Debug\netcoreapp2.1\CarRental.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module2\CarRental\CarRental\obj\Debug\netcoreapp2.1\CarRental.AssemblyInfoInputs.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module2\CarRental\CarRental\obj\Debug\netcoreapp2.1\CarRental.AssemblyInfo.cs
+C:\Users\Bryan\Documents\GitHub\csharp-class\module2\CarRental\CarRental\obj\Debug\netcoreapp2.1\CarRental.dll
+C:\Users\Bryan\Documents\GitHub\csharp-class\module2\CarRental\CarRental\obj\Debug\netcoreapp2.1\CarRental.pdb

@@ -1,0 +1,11 @@
+C:\Users\Bryan\Documents\GitHub\csharp-class\module2\FahrenheitToCelcius\FahrenheitToCelcius\bin\Debug\netcoreapp2.1\FahrenheitToCelcius.deps.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module2\FahrenheitToCelcius\FahrenheitToCelcius\bin\Debug\netcoreapp2.1\FahrenheitToCelcius.runtimeconfig.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module2\FahrenheitToCelcius\FahrenheitToCelcius\bin\Debug\netcoreapp2.1\FahrenheitToCelcius.runtimeconfig.dev.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module2\FahrenheitToCelcius\FahrenheitToCelcius\bin\Debug\netcoreapp2.1\FahrenheitToCelcius.dll
+C:\Users\Bryan\Documents\GitHub\csharp-class\module2\FahrenheitToCelcius\FahrenheitToCelcius\bin\Debug\netcoreapp2.1\FahrenheitToCelcius.pdb
+C:\Users\Bryan\Documents\GitHub\csharp-class\module2\FahrenheitToCelcius\FahrenheitToCelcius\obj\Debug\netcoreapp2.1\FahrenheitToCelcius.csprojAssemblyReference.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module2\FahrenheitToCelcius\FahrenheitToCelcius\obj\Debug\netcoreapp2.1\FahrenheitToCelcius.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module2\FahrenheitToCelcius\FahrenheitToCelcius\obj\Debug\netcoreapp2.1\FahrenheitToCelcius.AssemblyInfoInputs.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module2\FahrenheitToCelcius\FahrenheitToCelcius\obj\Debug\netcoreapp2.1\FahrenheitToCelcius.AssemblyInfo.cs
+C:\Users\Bryan\Documents\GitHub\csharp-class\module2\FahrenheitToCelcius\FahrenheitToCelcius\obj\Debug\netcoreapp2.1\FahrenheitToCelcius.dll
+C:\Users\Bryan\Documents\GitHub\csharp-class\module2\FahrenheitToCelcius\FahrenheitToCelcius\obj\Debug\netcoreapp2.1\FahrenheitToCelcius.pdb
