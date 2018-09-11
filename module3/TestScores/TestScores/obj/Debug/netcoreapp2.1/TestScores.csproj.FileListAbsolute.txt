@@ -1,0 +1,11 @@
+C:\Users\Bryan\Documents\GitHub\csharp-class\module3\TestScores\TestScores\bin\Debug\netcoreapp2.1\TestScores.deps.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module3\TestScores\TestScores\bin\Debug\netcoreapp2.1\TestScores.runtimeconfig.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module3\TestScores\TestScores\bin\Debug\netcoreapp2.1\TestScores.runtimeconfig.dev.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module3\TestScores\TestScores\bin\Debug\netcoreapp2.1\TestScores.dll
+C:\Users\Bryan\Documents\GitHub\csharp-class\module3\TestScores\TestScores\bin\Debug\netcoreapp2.1\TestScores.pdb
+C:\Users\Bryan\Documents\GitHub\csharp-class\module3\TestScores\TestScores\obj\Debug\netcoreapp2.1\TestScores.csprojAssemblyReference.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module3\TestScores\TestScores\obj\Debug\netcoreapp2.1\TestScores.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module3\TestScores\TestScores\obj\Debug\netcoreapp2.1\TestScores.AssemblyInfoInputs.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module3\TestScores\TestScores\obj\Debug\netcoreapp2.1\TestScores.AssemblyInfo.cs
+C:\Users\Bryan\Documents\GitHub\csharp-class\module3\TestScores\TestScores\obj\Debug\netcoreapp2.1\TestScores.dll
+C:\Users\Bryan\Documents\GitHub\csharp-class\module3\TestScores\TestScores\obj\Debug\netcoreapp2.1\TestScores.pdb

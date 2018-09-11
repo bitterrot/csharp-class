@@ -1,0 +1,11 @@
+C:\Users\Bryan\Documents\GitHub\csharp-class\module3\CountVowels\CountVowels\bin\Debug\netcoreapp2.1\CountVowels.deps.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module3\CountVowels\CountVowels\bin\Debug\netcoreapp2.1\CountVowels.runtimeconfig.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module3\CountVowels\CountVowels\bin\Debug\netcoreapp2.1\CountVowels.runtimeconfig.dev.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module3\CountVowels\CountVowels\bin\Debug\netcoreapp2.1\CountVowels.dll
+C:\Users\Bryan\Documents\GitHub\csharp-class\module3\CountVowels\CountVowels\bin\Debug\netcoreapp2.1\CountVowels.pdb
+C:\Users\Bryan\Documents\GitHub\csharp-class\module3\CountVowels\CountVowels\obj\Debug\netcoreapp2.1\CountVowels.csprojAssemblyReference.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module3\CountVowels\CountVowels\obj\Debug\netcoreapp2.1\CountVowels.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module3\CountVowels\CountVowels\obj\Debug\netcoreapp2.1\CountVowels.AssemblyInfoInputs.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module3\CountVowels\CountVowels\obj\Debug\netcoreapp2.1\CountVowels.AssemblyInfo.cs
+C:\Users\Bryan\Documents\GitHub\csharp-class\module3\CountVowels\CountVowels\obj\Debug\netcoreapp2.1\CountVowels.dll
+C:\Users\Bryan\Documents\GitHub\csharp-class\module3\CountVowels\CountVowels\obj\Debug\netcoreapp2.1\CountVowels.pdb
