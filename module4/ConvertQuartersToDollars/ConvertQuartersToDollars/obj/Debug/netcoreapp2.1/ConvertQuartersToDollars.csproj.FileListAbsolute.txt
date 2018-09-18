@@ -1,0 +1,11 @@
+C:\Users\Bryan\Documents\GitHub\csharp-class\module4\ConvertQuartersToDollars\ConvertQuartersToDollars\bin\Debug\netcoreapp2.1\ConvertQuartersToDollars.deps.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module4\ConvertQuartersToDollars\ConvertQuartersToDollars\bin\Debug\netcoreapp2.1\ConvertQuartersToDollars.runtimeconfig.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module4\ConvertQuartersToDollars\ConvertQuartersToDollars\bin\Debug\netcoreapp2.1\ConvertQuartersToDollars.runtimeconfig.dev.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module4\ConvertQuartersToDollars\ConvertQuartersToDollars\bin\Debug\netcoreapp2.1\ConvertQuartersToDollars.dll
+C:\Users\Bryan\Documents\GitHub\csharp-class\module4\ConvertQuartersToDollars\ConvertQuartersToDollars\bin\Debug\netcoreapp2.1\ConvertQuartersToDollars.pdb
+C:\Users\Bryan\Documents\GitHub\csharp-class\module4\ConvertQuartersToDollars\ConvertQuartersToDollars\obj\Debug\netcoreapp2.1\ConvertQuartersToDollars.csprojAssemblyReference.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module4\ConvertQuartersToDollars\ConvertQuartersToDollars\obj\Debug\netcoreapp2.1\ConvertQuartersToDollars.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module4\ConvertQuartersToDollars\ConvertQuartersToDollars\obj\Debug\netcoreapp2.1\ConvertQuartersToDollars.AssemblyInfoInputs.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module4\ConvertQuartersToDollars\ConvertQuartersToDollars\obj\Debug\netcoreapp2.1\ConvertQuartersToDollars.AssemblyInfo.cs
+C:\Users\Bryan\Documents\GitHub\csharp-class\module4\ConvertQuartersToDollars\ConvertQuartersToDollars\obj\Debug\netcoreapp2.1\ConvertQuartersToDollars.dll
+C:\Users\Bryan\Documents\GitHub\csharp-class\module4\ConvertQuartersToDollars\ConvertQuartersToDollars\obj\Debug\netcoreapp2.1\ConvertQuartersToDollars.pdb

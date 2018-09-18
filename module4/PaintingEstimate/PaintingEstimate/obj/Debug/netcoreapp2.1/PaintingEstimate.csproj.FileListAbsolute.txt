@@ -1,0 +1,11 @@
+C:\Users\Bryan\Documents\GitHub\csharp-class\module4\PaintingEstimate\PaintingEstimate\bin\Debug\netcoreapp2.1\PaintingEstimate.deps.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module4\PaintingEstimate\PaintingEstimate\bin\Debug\netcoreapp2.1\PaintingEstimate.runtimeconfig.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module4\PaintingEstimate\PaintingEstimate\bin\Debug\netcoreapp2.1\PaintingEstimate.runtimeconfig.dev.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module4\PaintingEstimate\PaintingEstimate\bin\Debug\netcoreapp2.1\PaintingEstimate.dll
+C:\Users\Bryan\Documents\GitHub\csharp-class\module4\PaintingEstimate\PaintingEstimate\bin\Debug\netcoreapp2.1\PaintingEstimate.pdb
+C:\Users\Bryan\Documents\GitHub\csharp-class\module4\PaintingEstimate\PaintingEstimate\obj\Debug\netcoreapp2.1\PaintingEstimate.csprojAssemblyReference.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module4\PaintingEstimate\PaintingEstimate\obj\Debug\netcoreapp2.1\PaintingEstimate.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module4\PaintingEstimate\PaintingEstimate\obj\Debug\netcoreapp2.1\PaintingEstimate.AssemblyInfoInputs.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module4\PaintingEstimate\PaintingEstimate\obj\Debug\netcoreapp2.1\PaintingEstimate.AssemblyInfo.cs
+C:\Users\Bryan\Documents\GitHub\csharp-class\module4\PaintingEstimate\PaintingEstimate\obj\Debug\netcoreapp2.1\PaintingEstimate.dll
+C:\Users\Bryan\Documents\GitHub\csharp-class\module4\PaintingEstimate\PaintingEstimate\obj\Debug\netcoreapp2.1\PaintingEstimate.pdb
