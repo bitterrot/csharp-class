@@ -1,0 +1,11 @@
+C:\Users\Bryan\Documents\GitHub\csharp-class\module5\Excercise3\Excercise3\bin\Debug\netcoreapp2.1\Excercise3.deps.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module5\Excercise3\Excercise3\bin\Debug\netcoreapp2.1\Excercise3.runtimeconfig.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module5\Excercise3\Excercise3\bin\Debug\netcoreapp2.1\Excercise3.runtimeconfig.dev.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module5\Excercise3\Excercise3\bin\Debug\netcoreapp2.1\Excercise3.dll
+C:\Users\Bryan\Documents\GitHub\csharp-class\module5\Excercise3\Excercise3\bin\Debug\netcoreapp2.1\Excercise3.pdb
+C:\Users\Bryan\Documents\GitHub\csharp-class\module5\Excercise3\Excercise3\obj\Debug\netcoreapp2.1\Excercise3.csprojAssemblyReference.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module5\Excercise3\Excercise3\obj\Debug\netcoreapp2.1\Excercise3.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module5\Excercise3\Excercise3\obj\Debug\netcoreapp2.1\Excercise3.AssemblyInfoInputs.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module5\Excercise3\Excercise3\obj\Debug\netcoreapp2.1\Excercise3.AssemblyInfo.cs
+C:\Users\Bryan\Documents\GitHub\csharp-class\module5\Excercise3\Excercise3\obj\Debug\netcoreapp2.1\Excercise3.dll
+C:\Users\Bryan\Documents\GitHub\csharp-class\module5\Excercise3\Excercise3\obj\Debug\netcoreapp2.1\Excercise3.pdb

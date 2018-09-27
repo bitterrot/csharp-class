@@ -1,0 +1,11 @@
+C:\Users\Bryan\Documents\GitHub\csharp-class\module5\OtherExamples\OtherExamples\bin\Debug\netcoreapp2.1\OtherExamples.deps.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module5\OtherExamples\OtherExamples\bin\Debug\netcoreapp2.1\OtherExamples.runtimeconfig.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module5\OtherExamples\OtherExamples\bin\Debug\netcoreapp2.1\OtherExamples.runtimeconfig.dev.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module5\OtherExamples\OtherExamples\bin\Debug\netcoreapp2.1\OtherExamples.dll
+C:\Users\Bryan\Documents\GitHub\csharp-class\module5\OtherExamples\OtherExamples\bin\Debug\netcoreapp2.1\OtherExamples.pdb
+C:\Users\Bryan\Documents\GitHub\csharp-class\module5\OtherExamples\OtherExamples\obj\Debug\netcoreapp2.1\OtherExamples.csprojAssemblyReference.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module5\OtherExamples\OtherExamples\obj\Debug\netcoreapp2.1\OtherExamples.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module5\OtherExamples\OtherExamples\obj\Debug\netcoreapp2.1\OtherExamples.AssemblyInfoInputs.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module5\OtherExamples\OtherExamples\obj\Debug\netcoreapp2.1\OtherExamples.AssemblyInfo.cs
+C:\Users\Bryan\Documents\GitHub\csharp-class\module5\OtherExamples\OtherExamples\obj\Debug\netcoreapp2.1\OtherExamples.dll
+C:\Users\Bryan\Documents\GitHub\csharp-class\module5\OtherExamples\OtherExamples\obj\Debug\netcoreapp2.1\OtherExamples.pdb
