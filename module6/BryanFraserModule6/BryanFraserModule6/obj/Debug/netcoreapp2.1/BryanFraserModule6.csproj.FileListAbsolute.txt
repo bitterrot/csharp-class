@@ -1,0 +1,11 @@
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\BryanFraserModule6\BryanFraserModule6\bin\Debug\netcoreapp2.1\BryanFraserModule6.deps.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\BryanFraserModule6\BryanFraserModule6\bin\Debug\netcoreapp2.1\BryanFraserModule6.runtimeconfig.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\BryanFraserModule6\BryanFraserModule6\bin\Debug\netcoreapp2.1\BryanFraserModule6.runtimeconfig.dev.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\BryanFraserModule6\BryanFraserModule6\bin\Debug\netcoreapp2.1\BryanFraserModule6.dll
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\BryanFraserModule6\BryanFraserModule6\bin\Debug\netcoreapp2.1\BryanFraserModule6.pdb
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\BryanFraserModule6\BryanFraserModule6\obj\Debug\netcoreapp2.1\BryanFraserModule6.csprojAssemblyReference.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\BryanFraserModule6\BryanFraserModule6\obj\Debug\netcoreapp2.1\BryanFraserModule6.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\BryanFraserModule6\BryanFraserModule6\obj\Debug\netcoreapp2.1\BryanFraserModule6.AssemblyInfoInputs.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\BryanFraserModule6\BryanFraserModule6\obj\Debug\netcoreapp2.1\BryanFraserModule6.AssemblyInfo.cs
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\BryanFraserModule6\BryanFraserModule6\obj\Debug\netcoreapp2.1\BryanFraserModule6.dll
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\BryanFraserModule6\BryanFraserModule6\obj\Debug\netcoreapp2.1\BryanFraserModule6.pdb

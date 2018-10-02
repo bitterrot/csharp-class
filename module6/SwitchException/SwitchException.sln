@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchException", "SwitchException\SwitchException.csproj", "{843172AC-E56E-4988-B499-36B80084C479}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{843172AC-E56E-4988-B499-36B80084C479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{843172AC-E56E-4988-B499-36B80084C479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{843172AC-E56E-4988-B499-36B80084C479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{843172AC-E56E-4988-B499-36B80084C479}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60BC445C-06B1-4179-A1D0-E75C24D93CE8}
+	EndGlobalSection
+EndGlobal

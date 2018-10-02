@@ -1,0 +1,11 @@
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\Lesson1\Lesson1\bin\Debug\netcoreapp2.1\Lesson1.deps.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\Lesson1\Lesson1\bin\Debug\netcoreapp2.1\Lesson1.runtimeconfig.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\Lesson1\Lesson1\bin\Debug\netcoreapp2.1\Lesson1.runtimeconfig.dev.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\Lesson1\Lesson1\bin\Debug\netcoreapp2.1\Lesson1.dll
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\Lesson1\Lesson1\bin\Debug\netcoreapp2.1\Lesson1.pdb
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\Lesson1\Lesson1\obj\Debug\netcoreapp2.1\Lesson1.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\Lesson1\Lesson1\obj\Debug\netcoreapp2.1\Lesson1.AssemblyInfoInputs.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\Lesson1\Lesson1\obj\Debug\netcoreapp2.1\Lesson1.AssemblyInfo.cs
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\Lesson1\Lesson1\obj\Debug\netcoreapp2.1\Lesson1.dll
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\Lesson1\Lesson1\obj\Debug\netcoreapp2.1\Lesson1.pdb
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\Lesson1\Lesson1\obj\Debug\netcoreapp2.1\Lesson1.csprojAssemblyReference.cache

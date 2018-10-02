@@ -1,0 +1,10 @@
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\SwitchException\SwitchException\bin\Debug\netcoreapp2.1\SwitchException.deps.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\SwitchException\SwitchException\bin\Debug\netcoreapp2.1\SwitchException.runtimeconfig.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\SwitchException\SwitchException\bin\Debug\netcoreapp2.1\SwitchException.runtimeconfig.dev.json
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\SwitchException\SwitchException\bin\Debug\netcoreapp2.1\SwitchException.dll
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\SwitchException\SwitchException\bin\Debug\netcoreapp2.1\SwitchException.pdb
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\SwitchException\SwitchException\obj\Debug\netcoreapp2.1\SwitchException.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\SwitchException\SwitchException\obj\Debug\netcoreapp2.1\SwitchException.AssemblyInfoInputs.cache
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\SwitchException\SwitchException\obj\Debug\netcoreapp2.1\SwitchException.AssemblyInfo.cs
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\SwitchException\SwitchException\obj\Debug\netcoreapp2.1\SwitchException.dll
+C:\Users\Bryan\Documents\GitHub\csharp-class\module6\SwitchException\SwitchException\obj\Debug\netcoreapp2.1\SwitchException.pdb
