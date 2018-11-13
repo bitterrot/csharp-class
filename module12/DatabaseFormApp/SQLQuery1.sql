@@ -1,0 +1,1 @@
+﻿Select * From Table1 Where Age > 40
